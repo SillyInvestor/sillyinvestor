@@ -5,4 +5,14 @@
 
 ## 参考
 
+1. [生命之旅](https://hazyman.com/)
+2. [CoolIPer](https://coolipr.com/)
+3. [再回归及启航](https://iprcreator.com/)
+4. [IP诗人](https://ahaipr.com/)
+5. [知识产权师](https://iprplayer.com/)
+6. [好专利，找爱知](https://xiezhuanli.com/)
+7. [1gmeta](https://1gmeta.com/)
+8. [经济学](https://sillyinvestor.com/)
+9. [DeepAi](https://ideepai.com/)
+
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
