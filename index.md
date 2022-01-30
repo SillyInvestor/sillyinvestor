@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 经济学
 
 You can use the [editor on GitHub](https://github.com/SillyInvestor/sillyinvestor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
