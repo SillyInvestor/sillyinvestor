@@ -32,7 +32,8 @@
 6. [好专利，找爱知](https://xiezhuanli.com/)
 7. [1gmeta](https://1gmeta.com/)
 8. [经济学](https://sillyinvestor.com/)
-9. [DeepAi](https://ideepai.com/)
-10. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
+9. [三国演义](https://aha1024.com)
+10. [DeepAi](https://ideepai.com/)
+11. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
