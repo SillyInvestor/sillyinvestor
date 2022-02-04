@@ -832,7 +832,9 @@
 8. [经济学](https://sillyinvestor.com/)
 9. [三国演义](https://aha1024.com)
 10. [案例](https://coolip.cn)
-11. [DeepAi](https://ideepai.com/)
-12. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
+11. [IP元宇宙](https://iprmeta.cn)
+12. [Ai Lab](https://deepcreator.com/)
+13. [DeepAi](https://ideepai.com/)
+14. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
