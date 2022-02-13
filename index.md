@@ -837,8 +837,9 @@
 13. [好问题](https://topproblem.com/)
 14. [啊哈，Miss！](https://ahamiss.com/)
 15. [啊哈，专利！](https://ahapatent.com)
-16. [Ai Lab](https://deepcreator.com/)
-17. [DeepAi](https://ideepai.com/)
-18. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
+16. [成年人](https://bewiseman.com/) 
+17. [Ai Lab](https://deepcreator.com/)
+18. [DeepAi](https://ideepai.com/)
+19. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
