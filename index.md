@@ -1,5 +1,8 @@
 ## 经济学
 
+![image](https://user-images.githubusercontent.com/98672986/154837861-b0322d66-12ab-4e58-b103-4bae9ff5af9c.png)
+> 过好一生...
+
 ```
 1. 健康投资
 2. 智力投资
