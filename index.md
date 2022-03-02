@@ -1,6 +1,6 @@
 ## 经济学
 
-![image](https://user-images.githubusercontent.com/98672986/154837861-b0322d66-12ab-4e58-b103-4bae9ff5af9c.png)
+![image](https://user-images.githubusercontent.com/98672986/156293684-8bbba649-732b-428c-948b-162d8ed626c7.png)
 > 过好一生...
 
 ```
