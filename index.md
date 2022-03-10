@@ -19,6 +19,38 @@
 ![image](https://user-images.githubusercontent.com/98672986/151682995-c218bfdd-7ddd-4c1b-9878-2e7f2507008e.png)
 ![image](https://user-images.githubusercontent.com/98672986/151682998-7f6a0941-1ca7-4b7a-a172-ebb440120b1c.png)
 
+![image](https://user-images.githubusercontent.com/98672986/157589478-05ba6ebc-fb8e-4c15-833e-081afa8542c0.png)
+
+欧文·费雪（Irving Fisher ）在他的[《利息理论》](https://book.douban.com/subject/24878119/)里面有一句名言：投资是时间维度上的平衡消费（ Investment is the balancing of consumption over time ），投资其实就是消费，投资只不过是在时间维度上面的平衡消费。
+
+这句话非常精彩。`投资一下子就跟消费打通了，它们是一回事儿，只不过是人们为了追求最大的收益，在时间上做一个平衡而已。`
+
+今天的年轻人有很多时间，今朝有酒今朝醉，把所有的时间都用来玩，这是可以的。连续玩一个礼拜，连续玩一个月，连续玩一个季度，可以的，但是如果一直这么玩下去的话，将来的日子可能就没那么好过了。
+
+所以，我们来个平衡消费，今天稍微吃点苦，多花一点时间来学习，多花一点时间来改进自己，将来的日子会更好过。这是一种平衡消费的观点。
+
+所以每一个人追求的，不是今天的消费最大化，也不是明天的消费最大化。我们要追求的，是我们终身每一个时间点的收入之和最大化。
+
+一棵苹果树今年结10个苹果，明年结10个苹果，后年结10个苹果，它的现值是什么呢？它的现值是今年这10个苹果，加上明年10个苹果折算成今年的价值，后年10个苹果折算成今年的价值，把所有这些现值加起来，就是这棵苹果树的现值。
+
+> 耐用品的现值等于未来收入流的折现和。我们追求的不是今天结的苹果数目最多，也不是明年或者后年结的苹果数目最多，我们追求的，是所有未来每一年收入流的折现和最大。所以投资是时间维度上面的平衡消费。
+
+![image](https://user-images.githubusercontent.com/98672986/157589722-f5df2ace-f99c-4af1-8963-9d920610a3b8.png)
+
+这也让我想起阿尔钦（Armen Alchian ）在他的教科书里面提过一个有趣的问题：我们都知道，要是连饿三天才吃一顿饭，那顿饭可香了，感受可好了。但是我们每个人，为什么不会为了追求那种特别美味的感觉，连饿自己三天才吃一顿，而是每天都吃三顿饭呢？
+
+答案是什么呢？答案在于，`我们追求的不是一刹那的最高幸福，我们要追求的是幸福总量的最大化。所以我们每天都吃三顿饭，这样使得我们的幸福总量最大化。`
+
+我们追求的是一个收入流的折现和最大，不是一刹那的收入最大，这一点挺重要的，我们后面还会用这个原理来分析一个非常重要的社会现象，就是收入不均的现象。
+
+> 过去人们普遍生活非常贫困，见不到未来的前景，人均寿命比较短，这时候及时行乐就显得比较重要，所以那个年代抽烟的人特别多。
+
+今天人们可以选择的娱乐活动范围比以前大多了，人们对寿命的预期也大大提高了，这时候他们的平衡消费就会发生变化。今天节制一点，未来就能得到更大的享受，吸烟的人数就大大下降了。
+
+> 节制饮食、运动健身，这些决定其实都跟人们对未来的预期有关，人们追求的是未来收入的最大化，而不是一刹那享受的最大化。
+
+同样的道理，有些医生就说，如果他的病人超过了80岁，他就不会让他们太过节制饮食，因为享受当下的快乐也是挺重要的。
+
 ## [定投改变命运](https://ri.firesbox.com/#/cn/)
 
 ![image](https://user-images.githubusercontent.com/98672986/152079129-d57441ce-6381-4db1-a460-89844fae775f.png)
@@ -3886,9 +3918,12 @@ rocketreach.co
 39. [啊哈，权利！](https://aharight.com/)
 40. [啊哈，Focus！](https://ahafocus.com)
 41. [啊哈，MVP！](https://ahamvp.com)
-42. [成年人](https://bewiseman.com/) 
-43. [Ai Lab](https://deepcreator.com/)
-44. [DeepAi](https://ideepai.com/)
-45. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
+42. [啊哈，手机！](https://ahaphone.com)
+43. [啊哈，英语！](https://ahaenglish.cn)
+44. [啊哈，领导！](https://ahaleader.cn) 
+45. [成年人](https://bewiseman.com/) 
+46. [Ai Lab](https://deepcreator.com/)
+47. [DeepAi](https://ideepai.com/)
+48. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
