@@ -2589,8 +2589,7 @@ VDR数值越大，就暗示了这个人地位越高，越有权势。
 
 ### 6. 通过会议和社群，加速社交效率
 
-https://piccdn3.umiwi.com/img/201807/20/201807201736224121586024.jpg![image](https://user-images.githubusercontent.com/99159300/152737783-a38acd84-94b4-4758-a0d8-ad3d98613f11.png)
-
+![image](https://user-images.githubusercontent.com/99159300/152737783-a38acd84-94b4-4758-a0d8-ad3d98613f11.png)
 
 ### 7. 更新人脉的三个原则
 
