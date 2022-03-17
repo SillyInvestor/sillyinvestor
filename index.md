@@ -1,7 +1,8 @@
 ## 经济学
 
 ![image](https://user-images.githubusercontent.com/98672986/156293684-8bbba649-732b-428c-948b-162d8ed626c7.png)
-> 过好一生...
+![image](https://user-images.githubusercontent.com/98672986/158753323-78f6dd63-8a73-499a-91cd-cfe01c2cd8d2.png)
+> 过好一生，携手共度...
 
 ```
 1. 健康投资
@@ -3162,9 +3163,10 @@ rocketreach.co
 65. [啊哈，图像！](https://ahaimage.com)
 66. [啊哈，优雅！](https://ahagrace.com)
 67. [啊哈，日记！](https://ahadiary.com) 
-68. [成年人](https://bewiseman.com/) 
-69. [Ai Lab](https://deepcreator.com/)
-70. [DeepAi](https://ideepai.com/)
-71. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
+68. [啊哈，冥想！](https://ahazen.cn/) 
+69. [成年人](https://bewiseman.com/) 
+70. [Ai Lab](https://deepcreator.com/)
+71. [DeepAi](https://ideepai.com/)
+72. [双向复利](https://mp.weixin.qq.com/s/N5ab0coDxEnE23DuRMy0TA)
 
 ![Alt](https://repobeats.axiom.co/api/embed/a78be237bee0d661ba4af91f7409000e7cadcafe.svg "Repobeats analytics image")
