@@ -3090,6 +3090,83 @@ rocketreach.co
 1. [有效提升你的谈判能力](https://www.dedao.cn/course/detail?id=QG0xjrRlNamKYdesnGXg5k293pyOqM)
 2. [有效提升你的职场说服力](https://www.dedao.cn/course/detail?id=alQr3o4dMw8ZKgaf2rJ7N2xDyWeEq1)
 
+## [有钱人和你想的不一样](https://book.douban.com/subject/27045965/)
+
+![image](https://user-images.githubusercontent.com/98672986/159688210-ba04d2de-1241-457f-9996-d421ff74adf8.png)
+
+有钱人那里跟你不一样了？
+
+作者做书中给出17套财富档案。
+
+1.想法不一样。
+
+> 档案一：有钱人相信自己，乐观、积极主动。
+
+![image](https://user-images.githubusercontent.com/98672986/159688852-98196fcb-a2c6-410f-8dba-ede12544b4b3.png)
+
+相信“我命由我不由天”
+
+档案四：有钱人想得很大；穷人想得小。
+
+档案九：有钱人相信自己大于问题。穷人相信问题大于自己。
+
+2.目标不一样
+
+档案二：有钱人为了赢；穷人为了不输。
+
+3.行为不同。
+
+档案三：有钱人会努力让自己有钱；穷人一直在想什么有钱。
+
+档案五：有钱人会专注而机会。穷人专注于障碍。
+
+档案六：有钱人欣赏有钱人。穷人嫉妒有钱人。
+
+档案七：有钱人扎在富人堆。穷人扎在穷人里。
+
+档案八：有钱人乐于宣传自己和产品。穷人一直保持低调。
+
+有钱人相信自己，敢于为自己的产品叫卖。
+
+没钱人为了心中那点小尊样，不敢出声。
+
+档案十：有钱人乐于接受，穷人乐于诋毁和批评。
+
+档案十六：有钱人就算恐惧也会行动。穷人会退缩。
+
+档案十七：有钱人会持续学习。
+
+5.态度不一样
+
+档案十一：有钱人根据结构拿酬劳。穷人根据时间拿酬劳
+
+档案十二：有钱人有双赢思维，什么都要。穷人只能二选一。
+
+档案十三：有钱人专注自己的净收入，包括收入、支出、投资和简化。
+
+穷人专注自己的收入多少。
+
+6.用金钱方法不一样
+
+档案十四：有钱人会管理钱。
+
+档案十五：有钱人会钱生钱。穷人被钱约束。
+
+总之，作者认为感觉产生想法。想法产生行为。行为产生结果。
+
+你现在没有的结果，是由你的贫穷的想法决定的。
+
+所以，你想要有钱，需要先思考自己在想什么？
+
+![image](https://user-images.githubusercontent.com/98672986/159689110-41172f52-6123-4ad3-a440-418d24a1dfef.png)
+![image](https://user-images.githubusercontent.com/98672986/159689130-8f847f46-14f6-4844-8797-2a2f478eb0cc.png)
+![image](https://user-images.githubusercontent.com/98672986/159689241-7258b44e-291b-4cc8-ab10-cce32535765f.png)
+![image](https://user-images.githubusercontent.com/98672986/159689263-a62e2e5a-7086-4939-b760-32f49845c46a.png)
+![image](https://user-images.githubusercontent.com/98672986/159689273-d847f061-443a-471d-9aea-2245c86a0f18.png)
+![image](https://user-images.githubusercontent.com/98672986/159689293-d2ffdb6a-a7ec-4d30-9294-9d98f5a05b06.png)
+![image](https://user-images.githubusercontent.com/98672986/159689329-5ddd7c5e-2863-4925-adb6-d83ef391eb82.png)
+
+
 ## [薛兆丰的经济学课](https://www.dedao.cn/course/detail?id=eN7ndm2ploEVb1aH9GKA48zLBYG1vq)
 ——只给你地道的经济学思维
 
